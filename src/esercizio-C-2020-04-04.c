@@ -41,4 +41,6 @@ int main(int argc, char **argv) {
 		}
 	}
 	printf("\nMedia totale= %f",media(length_righe,num_righe));
+
+	return 0;
 }
