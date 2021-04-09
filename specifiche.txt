@@ -1,5 +1,7 @@
 scrivere un programma che legge da stdin una riga alla volta (la riga si considera terminata dal carattere \n).
 
+non è richiesto di conservare il contenuto della riga, ma soltanto di contarne la lunghezza.
+
 la lunghezza della riga è arbitraria, non fare ipotesi sulla massima lunghezza di riga.
 [in questo esercizio, non occorre immagazzinare l'intera riga].
 
